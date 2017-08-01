@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SdLabFilterMgmt.Web", "SdLabFilterMgmt.Web\SdLabFilterMgmt.Web.csproj", "{C5B84105-A515-4B91-A373-084D678D4BD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SdLabFilterMgmt.Common", "SdLabFilterMgmt.Common\SdLabFilterMgmt.Common.csproj", "{6CE544BC-5F63-43F0-83DB-9B9EF34B5DB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SdLabFilterMgmt.Storage", "SdLabFilterMgmt.Storage\SdLabFilterMgmt.Storage.csproj", "{5D3770C4-CFCF-4C81-8B69-B1EFF87654EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SdLabFilterMgmt.WikiClient", "SdLabFilterMgmt.WikiClient\SdLabFilterMgmt.WikiClient.csproj", "{03C5F11D-5536-435A-AA5B-320664509949}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5B84105-A515-4B91-A373-084D678D4BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B84105-A515-4B91-A373-084D678D4BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B84105-A515-4B91-A373-084D678D4BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B84105-A515-4B91-A373-084D678D4BD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CE544BC-5F63-43F0-83DB-9B9EF34B5DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CE544BC-5F63-43F0-83DB-9B9EF34B5DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CE544BC-5F63-43F0-83DB-9B9EF34B5DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CE544BC-5F63-43F0-83DB-9B9EF34B5DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D3770C4-CFCF-4C81-8B69-B1EFF87654EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D3770C4-CFCF-4C81-8B69-B1EFF87654EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D3770C4-CFCF-4C81-8B69-B1EFF87654EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D3770C4-CFCF-4C81-8B69-B1EFF87654EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03C5F11D-5536-435A-AA5B-320664509949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C5F11D-5536-435A-AA5B-320664509949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C5F11D-5536-435A-AA5B-320664509949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C5F11D-5536-435A-AA5B-320664509949}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
